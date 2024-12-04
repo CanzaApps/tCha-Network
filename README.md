@@ -1,6 +1,5 @@
 # tCha - Unlocking Stablecoin Potential, Bridging Real-World Assets  
 
-**Tagline:**  
 *“Empowering the Next Generation of Finance with Stablecoin-Centric Innovation.”*
 
 ---
